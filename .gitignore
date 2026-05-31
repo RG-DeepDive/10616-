@@ -1,0 +1,20 @@
+/[Ll]ibrary/
+/[ there ]Temp/
+/[Oo]bj/
+/[叠]Build/
+/[Bb]uilds/
+/[Cc]aptures/
+/Assets/AssetStoreTools*
+
+# Visual Studio / Rider 관련 임시 파일
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# OS 관련 임시 파일
+.DS_Store
+Thumbs.db
