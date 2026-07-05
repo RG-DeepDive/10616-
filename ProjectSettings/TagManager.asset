@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 3
   tags:
   - Ground
+  - PAttack
+  - Magma
+  - Enemy
+  - Bullet
   layers:
   - Default
   - TransparentFX
